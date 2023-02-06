@@ -1,0 +1,30 @@
+.title {
+    border-radius: 15px 15px 15px 15px;
+    border: 8px solid #577359;
+    padding: 0.1em 1em;
+    font-size: 60px;
+    font-family: "리디바탕";
+    color: #364737;
+    background-color: #eaf0ab;
+    text-align: center
+}
+
+.chat-left {
+    border-radius: 15px 15px 15px 0;
+    border: 3px solid #FFAD5B;
+    padding: 0.5em 1em;
+    font-family: "리디바탕";
+    text-align: left;
+}
+
+.chat-right {
+    border-radius: 15px 15px 0 15px;
+    border: 3px solid #11768a;
+    padding: 0.5em 1em;
+    font-family: "리디바탕";
+}
+
+.horizontal {
+    display: flex;
+    justify-content: right;
+}
